@@ -1,6 +1,6 @@
-# mvp_demo
+# MVP Login Validation Demo
 
-A new Flutter project.
+This project implements MVP architecture for user login validation.
 
 ## Getting Started
 
